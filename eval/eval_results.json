@@ -1,0 +1,8 @@
+{
+  "precision_at_5": 0.0,
+  "response_quality": 4.2,
+  "latency_p50_ms": 9971,
+  "latency_p95_ms": 11103,
+  "guardrails_catch_rate": 0.0,
+  "escalation_rate": 0.0
+}

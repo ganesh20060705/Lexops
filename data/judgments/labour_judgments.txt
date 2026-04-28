@@ -1,0 +1,39 @@
+CASE: Workmen of Dimakuchi Tea Estate v. Management of Dimakuchi Tea Estate
+YEAR: 1958
+COURT: Supreme Court of India
+CITATION: AIR 1958 SC 353
+CATEGORY: Labour / Wages
+RULING: The Supreme Court held that workers are entitled to wages for the period of unlawful termination. Employers cannot withhold wages due to pending disciplinary proceedings. Section 3 of the Payment of Wages Act mandates timely payment and Section 15 provides the remedy for recovery.
+KEY PRINCIPLE: Wages are a fundamental entitlement; delay in payment attracts compensation up to 10x the unpaid amount under Section 15 of the Payment of Wages Act 1936.
+
+CASE: Central Inland Water Transport Corporation Ltd v. Brojo Nath Ganguly
+YEAR: 1986
+COURT: Supreme Court of India
+CITATION: AIR 1986 SC 1571
+CATEGORY: Labour / Unfair Dismissal
+RULING: The Supreme Court struck down a service rule that gave the employer unilateral power to terminate employment with 3-months' notice, holding it unconscionable and violative of Article 14. Workers cannot be dismissed without just cause and due inquiry.
+KEY PRINCIPLE: Arbitrary termination clauses in employment contracts are void. Workers dismissed without inquiry are entitled to reinstatement or back wages under the Industrial Disputes Act.
+
+CASE: Surendra Kumar Verma v. Central Government Industrial Tribunal
+YEAR: 1980
+COURT: Supreme Court of India
+CITATION: AIR 1981 SC 422
+CATEGORY: Labour / Industrial Dispute
+RULING: Held that an employer cannot declare a lockout without following the procedure under the Industrial Disputes Act. Workers are entitled to wages during an illegal lockout period. Section 22 of the Industrial Disputes Act requires 14 days' notice before a lockout in public utility services.
+KEY PRINCIPLE: Illegal lockouts entitle workmen to full wages during the lockout period. Employer must follow mandatory notice requirements.
+
+CASE: State of U.P. v. Synthetics and Chemicals Ltd
+YEAR: 1991
+COURT: Supreme Court of India
+CITATION: AIR 1991 SC 1672
+CATEGORY: Labour / Contract Workers
+RULING: Contract workers performing the same work as permanent employees are entitled to equal pay under Article 21 and the Equal Remuneration Act 1976. Differential wage structures for identical work constitute unfair labour practice.
+KEY PRINCIPLE: Equal pay for equal work applies to contract workers. Discrimination in wage structure for same job violates fundamental rights.
+
+CASE: Hussainbhai Calicut v. The Alath Factory Thozhilali Union
+YEAR: 1978
+COURT: Supreme Court of India
+CITATION: AIR 1978 SC 1410
+CATEGORY: Labour / Employer-Employee Relationship
+RULING: The Court held that for the purposes of the Industrial Disputes Act, the test of who is the real employer is functional, not merely contractual. Sub-contracted workers working on the principal employer's premises under their supervision are employees for all practical purposes.
+KEY PRINCIPLE: Functional test determines employer-employee relationship; sub-contracted workers enjoy full labour law protections.
