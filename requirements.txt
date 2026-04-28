@@ -1,0 +1,39 @@
+# LexOps | requirements.txt 
+
+# LlamaIndex
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-groq
+llama-index-llms-ollama
+llama-index-vector-stores-faiss
+faiss-cpu
+
+# ChromaDB (primary vector store)
+chromadb>=0.4.0
+
+# MCP Server
+mcp
+
+# LLM & Embeddings
+groq
+sentence-transformers
+
+# Web framework
+fastapi
+uvicorn
+streamlit
+
+# Observability
+arize-phoenix
+openinference-instrumentation-llama-index
+
+# Utilities
+langdetect
+python-dotenv
+pypdf
+pydantic>=2.0
+sqlalchemy
+
+# Testing
+pytest
+pytest-timeout
