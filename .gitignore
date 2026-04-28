@@ -65,3 +65,5 @@ models--*/
 
 # Session memory
 session_memory.json
+
+data/storage/
